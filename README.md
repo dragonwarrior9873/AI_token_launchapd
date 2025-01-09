@@ -29,7 +29,7 @@ Various settings for the meme generation process can be customized:
 - Special Image Instructions: You can tell the AI how to generate the image itself (more specifically,  how to write the image prompt). You can specify a style such as being a photograph, drawing, etc, or something more specific such as always using cats in the pictures.
 
 ## Example Image Output With Log
-![meme_2025-01-09-15-28_1](https://github.com/user-attachments/assets/33012e90-441d-43e7-bf3c-683a1310e0cb)
+![Screenshot_7](https://github.com/user-attachments/assets/25dcfc2d-0832-4ec7-b5ba-eb5e6fef46b9)
 
 ```
 Meme File Name: meme_2025-01-09-15-28_1.png
