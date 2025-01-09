@@ -1,5 +1,6 @@
 # AI_token_launchapd
 
+![Screenshot_8](https://github.com/user-attachments/assets/0e6118c1-6b06-488f-8ce7-3df548139527)
 
 #### Allows you to automatically generate meme names, symbols, descriptions and images from start to finish using AI. It will generate the text for the meme (optionally based on a user-provided concept), create a related image, and combine the two into a final image file.
 It can launch tokens with AI generated metadata and snipe with 24 wallets.
