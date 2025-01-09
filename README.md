@@ -4,6 +4,9 @@
 #### Allows you to automatically generate meme names, symbols, descriptions and images from start to finish using AI. It will generate the text for the meme (optionally based on a user-provided concept), create a related image, and combine the two into a final image file.
 ----------------------
 
+Contact Information For support or inquiries regarding this project, feel free to reach out:
+Telegram: https://t.me/magicdev01 Skype: live:.cid.1f1021b7e207b76a
+
 ## Features
 
 - Uses OpenAI's GPT-4 to generate the meme name, symbol, description text and image prompt for the meme.
