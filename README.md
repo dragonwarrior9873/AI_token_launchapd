@@ -2,6 +2,9 @@
 
 
 #### Allows you to automatically generate meme names, symbols, descriptions and images from start to finish using AI. It will generate the text for the meme (optionally based on a user-provided concept), create a related image, and combine the two into a final image file.
+It can launch tokens with AI generated metadata and snipe with 24 wallets.
+https://explorer.jito.wtf/bundle/29b0081a8b3fa217d6e8f861f67ff0b658ee414a7eea04085266c52cff43f7a![image](https://github.com/user-attachments/assets/897bdca6-6bc8-45ce-bc6e-d7680ed5d0ef)
+
 ----------------------
 
 Contact Information For support or inquiries regarding this project, feel free to reach out:
