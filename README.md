@@ -6,8 +6,8 @@ It can launch tokens with AI generated metadata and snipe with 24 wallets.
 https://explorer.jito.wtf/bundle/29b0081a8b3fa217d6e8f861f67ff0b658ee414a7eea04085266c52cff43f7a![image](https://github.com/user-attachments/assets/897bdca6-6bc8-45ce-bc6e-d7680ed5d0ef)
 
 ----------------------
-
-Contact Information For support or inquiries regarding this project, feel free to reach out:
+Contact Information
+For support or inquiries regarding this project, feel free to reach out:
 Telegram: https://t.me/magicdev01 Skype: live:.cid.1f1021b7e207b76a
 
 ## Features
