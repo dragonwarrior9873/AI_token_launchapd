@@ -1,9 +1,8 @@
-![meme_2025-01-09-15-28_1](https://github.com/user-attachments/assets/c974a72e-b8df-4189-b925-ec7d015c41b2)# AI_token_launchapd
+# AI_token_launchapd
 
 
 #### Allows you to automatically generate meme names, symbols, descriptions and images from start to finish using AI. It will generate the text for the meme (optionally based on a user-provided concept), create a related image, and combine the two into a final image file.
 ----------------------
-![meme_2025-01-09-15-27_1](https://github.com/user-attachments/assets/c4b7bb85-6ad5-47d6-b3c6-a7b7804597f3)
 
 ## Features
 
